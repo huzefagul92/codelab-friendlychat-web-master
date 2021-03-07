@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719880704167",
+    "firebase_url": "https://noor-n-store-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "noor-n-store",
+    "storage_bucket": "noor-n-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719880704167:android:cd5b919e8fdea5ec134b82",
+        "android_client_info": {
+          "package_name": "noor.n.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719880704167-0o61ul4ps8bn52atvfq8bp64259juoe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9ic1OSP6DNG2AjxDKELIQkB73S1spt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719880704167-0o61ul4ps8bn52atvfq8bp64259juoe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
